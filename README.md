@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working towards becoming an expert in **Software Development.**
 
-- 🌱 I’m currently learning **SQL**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ajmalBuilds](https://github.com/ajmalBuilds)
 
 - 💬 Ask me about **Node.js, React, Express, MongoDB Etc.**
