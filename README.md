@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working towards becoming an expert in **Software Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajmalBuilds](https://github.com/ajmalBuilds)
+- 👨‍💻 All of my projects are available at [https://ajmalBuilds.vercel.app](https://ajmalbuilds.vercel.app/)
 
-- 💬 Ask me about **Node.js, React, Express, MongoDB Etc.**
+- 💬 Ask me about **Node.js, React, Express, MongoDB, Next.js Etc.**
 
 - 📫 How to reach me **ajmalBuilds@gmail.com**
 
